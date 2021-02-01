@@ -1,0 +1,7 @@
+.card__travel-time {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  font-size: 14px;
+}

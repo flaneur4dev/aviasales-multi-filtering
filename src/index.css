@@ -1,13 +1,33 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url(./vendor/normalize.css);
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+@import url(./blocks/page/page.css);
+
+@import url(./blocks/panel/panel.css);
+@import url(./blocks/form/form.css);
+@import url(./blocks/form/__title/form__title.css);
+@import url(./blocks/form/__title/_last/form__title_last.css);
+@import url(./blocks/form/__subtitle/form__subtitle.css);
+@import url(./blocks/form/__label/form__label.css);
+@import url(./blocks/form/__input-container/form__input-container.css);
+@import url(./blocks/form/__input/form__input.css);
+@import url(./blocks/form/__caption/form__caption.css);
+@import url(./blocks/form/__price/form__price.css);
+
+@import url(./blocks/main/main.css);
+@import url(./blocks/main/__button/main__button.css);
+
+@import url(./blocks/card/card.css);
+@import url(./blocks/card/_color/card_color.css);
+@import url(./blocks/card/__header/card__header.css);
+@import url(./blocks/card/__price/card__price.css);
+@import url(./blocks/card/__description/card__description.css);
+@import url(./blocks/card/__submit-button/card__submit-button.css);
+@import url(./blocks/card/__segment/card__segment.css);
+@import url(./blocks/card/__travel-places/card__travel-places.css);
+@import url(./blocks/card/__travel-time/card__travel-time.css);
+@import url(./blocks/card/__time/card__time.css);
+@import url(./blocks/card/__wrapper/card__wrapper.css);
+@import url(./blocks/card/__duration/card__duration.css);
+@import url(./blocks/card/__container/card__container.css);
+@import url(./blocks/card/__transfer/card__transfer.css);
+@import url(./blocks/card/__footer/card__footer.css);

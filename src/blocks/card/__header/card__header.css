@@ -1,0 +1,7 @@
+.card__header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  color: var(--base100);
+  background-color: var(--base200);
+}

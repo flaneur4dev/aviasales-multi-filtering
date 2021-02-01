@@ -1,0 +1,6 @@
+.card__duration {
+  display: inline-block;
+  width: 115px;
+  background-image: url('../../../images/clock.svg');
+  background-repeat: no-repeat;
+}

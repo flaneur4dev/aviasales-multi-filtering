@@ -1,0 +1,8 @@
+.card__transfer {
+  display: inline-block;
+  position: absolute;
+  width: 120px;
+  color: var(--base300);
+  text-align: center;
+  background: var(--base100);
+}

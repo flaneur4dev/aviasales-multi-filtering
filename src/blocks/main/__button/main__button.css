@@ -1,0 +1,6 @@
+.main__button {
+  display: block;
+  margin: auto;
+  padding: 3px 50px;
+  cursor: pointer;
+}

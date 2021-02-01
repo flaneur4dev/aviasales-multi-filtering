@@ -1,0 +1,9 @@
+.form__caption {
+  display: inline-block;
+  margin: 0 5px 0 3px;
+  vertical-align: text-bottom;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 170px;
+}
